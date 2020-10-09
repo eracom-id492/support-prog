@@ -39,7 +39,3 @@ V'la les différents trucs.
 `<ol> </ol>`  : liste ordonnée ;
 
 `<li> </li>`  : éléments de la liste ;
-
-
-
-
