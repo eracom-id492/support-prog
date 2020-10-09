@@ -1,16 +1,10 @@
 Exemples d'utilisation des balises
 
-<!DOCTYPE html>
-<html lang="fr" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
+```html
+
   <body>
 
 <header>
-
-
 
 </header>
 <main>
@@ -48,4 +42,5 @@ Exemples d'utilisation des balises
 
 
   </body>
-</html>
+
+```
