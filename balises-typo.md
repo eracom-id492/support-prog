@@ -8,37 +8,37 @@ V'la les différents trucs.
 
 `<h1> </h1>`  : signifie « titre très important » En général, on s'en sert pour afficher le titre de la page au début de celle-ci ;
 
-<h2> </h2>  : signifie « titre important » ;
+`<h2> </h2>`  : signifie « titre important » ;
 
-<h3> </h3>  : pareil c'est un titre un peu moins important (on peut dire un « sous-titre » si vous voulez) ;
+`<h3> </h3>`  : pareil c'est un titre un peu moins important (on peut dire un « sous-titre » si vous voulez) ;
 
-<h4> </h4>  : titre encore moins important ;
+`<h4> </h4>`  : titre encore moins important ;
 
-<h5> </h5>  : titre pas important ;
+`<h5> </h5>`  : titre pas important ;
 
-<h6> </h6>  : titre vraiment mais alors là vraiment pas important du tout.
+`<h6> </h6>`  : titre vraiment mais alors là vraiment pas important du tout.
 
 ## Le texte courrant.
 
-<p> </p>    : paragraphe normal avec un texte neutre ;
+`<p> </p>`    : paragraphe normal avec un texte neutre ;
 
-<br> </br>  : saut à la ligne ;
+`<br> </br>`  : saut à la ligne ;
 
 ## La forme.
 
-<strong> </strong>  : écriture en caractère gras ;
+`<strong> </strong>`  : écriture en caractère gras ;
 
-<em> </em>          : écriture en italique ; 
+`<em> </em>`          : écriture en italique ; 
 
-<mark> </mark>      : écriture soulignée ;
+`<mark> </mark>`      : écriture soulignée ;
 
 ## Les listes.
 
-<ul> </ul>  : liste à puces ou non ordonnée ;
+`<ul> </ul>`  : liste à puces ou non ordonnée ;
 
-<ol> </ol>  : liste ordonnée ;
+`<ol> </ol>`  : liste ordonnée ;
 
-<li> </li>  : éléments de la liste ;
+`<li> </li>`  : éléments de la liste ;
 
 
 
