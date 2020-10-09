@@ -1,6 +1,7 @@
 ## Les balises typographiques en HTML.
 
 Dans l'code ya moyen d'changer la gueule du texte.
+
 V'la les différents trucs.
 
 ## Les titres.
@@ -20,18 +21,23 @@ V'la les différents trucs.
 ## Le texte courrant.
 
 <p> </p>    : paragraphe normal avec un texte neutre ;
+
 <br> </br>  : saut à la ligne ;
 
 ## La forme.
 
 <strong> </strong>  : écriture en caractère gras ;
+
 <em> </em>          : écriture en italique ; 
+
 <mark> </mark>      : écriture soulignée ;
 
 ## Les listes.
 
 <ul> </ul>  : liste à puces ou non ordonnée ;
+
 <ol> </ol>  : liste ordonnée ;
+
 <li> </li>  : éléments de la liste ;
 
 
