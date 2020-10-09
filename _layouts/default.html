@@ -21,6 +21,12 @@
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          
+          <nav id="menu">
+            <ul>
+              <li><a href="{{ '/balises-typo.html' | relative_url }}>Balises typo</a></li>
+              <li><a href="{{ '/flexbox.html' | relative_url }}>Flexbox</a></li>
+          </nav>
 
           {% if site.show_downloads %}
             <section id="downloads">
