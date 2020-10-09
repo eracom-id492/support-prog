@@ -6,6 +6,7 @@ Les thématiques:
 
 ## HTML
 
+- [Balises de structures](balises-structures-pages.md) - par Sandra et Filipe
 - [Balises typographiques](balises-typo.md)
 
 ## CSS
