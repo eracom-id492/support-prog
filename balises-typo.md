@@ -6,7 +6,7 @@ V'la les différents trucs.
 
 ## Les titres.
 
-"<h1> </h1>"  : signifie « titre très important » En général, on s'en sert pour afficher le titre de la page au début de celle-ci ;
+<h1> </h1>  : signifie « titre très important » En général, on s'en sert pour afficher le titre de la page au début de celle-ci ;
 
 <h2> </h2>  : signifie « titre important » ;
 
